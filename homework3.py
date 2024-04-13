@@ -1,4 +1,4 @@
-my_string = input()
+my_string = input('Введите Ваше предложение: ')
 print(my_string .upper())
 print(my_string .lower())
 my_string = (my_string .replace(' ', ''))
